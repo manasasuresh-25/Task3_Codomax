@@ -25,8 +25,3 @@ The objective of this task is to clean and preprocess the raw Netflix dataset by
 - `task1_data_cleaning.ipynb` – Jupyter Notebook containing the preprocessing code
 ## Outcome
 The dataset was successfully cleaned and prepared for Exploratory Data Analysis (EDA). Missing values were handled, unnecessary columns were removed, duplicate records were checked, and the cleaned dataset was exported as a CSV file.
-
----
-
-## Author
-**Manasa S**
